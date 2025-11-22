@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="si">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Web 1</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f2f2f2;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        header {
+            background: #4CAF50;
+            color: white;
+            width: 100%;
+            padding: 20px;
+            text-align: center;
+            font-size: 24px;
+        }
+        .content {
+            margin-top: 40px;
+            background: white;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            width: 90%;
+            max-width: 800px;
+            text-align: center;
+        }
+        footer {
+            margin-top: 40px;
+            padding: 10px;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <header>Obage Web 1</header>
+  
+    <div class="content">
+        <h2>yapa dahanayak!</h2>
+        <p>Me oyage prathamika web page eka. Oya monawada meyeta aulak kalanna ona?</p>
+    </div>
+
+    <footer>© 2025 Web 1</footer>
+</body>
+</html>
+
